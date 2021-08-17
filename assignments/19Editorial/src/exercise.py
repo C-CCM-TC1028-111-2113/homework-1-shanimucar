@@ -3,8 +3,8 @@ def main():
     import math
     num_palabras = int(input("Dame el número de palabras: "))
     
-    páginas = math.ceil(num_palabras/475)
-    costo = páginas*60 - .1(páginas*60)
+    paginas = math.ceil(num_palabras/475)
+    costo = paginas*60 - 0.1*(paginas*60)
     
     print("El costo de la publicación es:", costo)
 
