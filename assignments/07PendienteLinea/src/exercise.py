@@ -13,7 +13,7 @@ def main():
     
     pendiente = math.dist(a,b)
     
-    print("Pendiente: ", pendiente)
+    print("Pendiente:", pendiente)
 
 
 if __name__ == '__main__':
