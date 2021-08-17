@@ -4,9 +4,9 @@ def main():
     
     minutos = float(input("Dame los minutos: "))
     
-    cm = trunc(minutos * 34.2)
+    cm = minutos * 34.2
     
-    print("Centímetros recorridos:", cm)
+    print("Centímetros recorridos: ", cm)
     
 
 if __name__ == '__main__':
