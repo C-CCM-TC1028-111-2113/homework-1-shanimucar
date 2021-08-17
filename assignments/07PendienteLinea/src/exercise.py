@@ -11,7 +11,7 @@ def main():
     a = (x1, y1)
     b = (x2, y2)
     
-    pendiente = math.dist(a-b)
+    pendiente = math.dist(a,b)
     
     print("Pendiente: ", pendiente)
 
