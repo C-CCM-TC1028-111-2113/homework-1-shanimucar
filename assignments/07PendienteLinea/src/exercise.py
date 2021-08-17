@@ -8,7 +8,7 @@ def main():
     x2 = float(input("Dame x2: "))
     y2 = float(input("Dame y2: "))
     
-   pendiente = math.sqrt((x1+x2)**2)+((y1+y2)**2)
+   pendiente = (y2-y1)/(x2-x1)
 
     print("Pendiente:", pendiente)
 
