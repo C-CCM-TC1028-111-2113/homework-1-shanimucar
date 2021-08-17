@@ -1,6 +1,13 @@
 def main():
     #escribe tu código abajo de esta línea
-    pass
+    import math
+    
+    minutos = float(input("Dame los minutos: "))
+    
+    cm = minutos * 34.2
+    
+    print("Centímetros recorridos:", cm)
+    
 
 if __name__ == '__main__':
     main()
