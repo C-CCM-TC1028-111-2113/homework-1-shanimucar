@@ -4,7 +4,7 @@ def main():
     
     minutos = float(input("Dame los minutos: "))
     
-    cm = minutos * (5.7*.1*60)
+    cm = minutos * (5.7*0.1*60)
     redondeado = round(cm,1)
     
     print("Centímetros recorridos:", redondeado)
