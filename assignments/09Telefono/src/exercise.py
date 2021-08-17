@@ -1,7 +1,7 @@
 def main():
     #escribe tu código abajo de esta línea
     #Leer los datos
-    mesajes = int(input("Dame el número de mensajes: "))
+    mensajes = int(input("Dame el número de mensajes: "))
     megas = float(input("Dame el número de megas: "))              
     minutos = int(input("Dame el número de minutos: "))
     cobro = 0.80
