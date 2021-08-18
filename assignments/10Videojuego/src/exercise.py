@@ -6,7 +6,7 @@ def main():
     costo_n = (nuevos*1000)
     costo_u = (usados*350)
     
-    costo_total = cost_n + costo_u
+    costo_total = costo_n + costo_u
     
     print("El total de la compra es:", costo_total)
 
