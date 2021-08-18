@@ -12,7 +12,7 @@ def main():
         else:
             par += 0
 
-    print("El número de dígitos pares es ", par)
+    print("El número de dígitos pares es:", par)
 
 if __name__ == '__main__':
     main()
