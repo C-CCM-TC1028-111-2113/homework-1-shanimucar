@@ -10,7 +10,7 @@ def main():
     conversion=cm/10
    
     
-    print("Centímetros recorridos:", conversion)
+    print("Centímentros recorridos:", conversion)
     
 
 if __name__ == '__main__':
